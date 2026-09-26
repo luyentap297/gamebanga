@@ -1,20 +1,30 @@
-CHICKEN BLASTER: GALACTIC FARM – FULL EDITION
+CHICKEN BLASTER: GALACTIC FARM PRO
+==================================
 
-CÁCH CHƠI
-- Máy tính: WASD / phím mũi tên = di chuyển; Space = bắn; X = tên lửa; 1-4 = đổi vũ khí; P = tạm dừng.
-- Điện thoại: dùng cụm phím cảm ứng hoặc kéo trực tiếp phi thuyền; nút lửa để bắn; nút tên lửa để dùng tuyệt chiêu.
+Mở index.html bằng Chrome/Edge/Safari để chơi.
 
-NỘI DUNG BẢN FULL
-- Chiến dịch 30 màn + chế độ sinh tồn.
-- Boss mỗi 5 màn; đại boss màn 30.
-- 4 vũ khí: Blaster, Spread, Laser, Plasma; mỗi vũ khí lên cấp riêng.
-- 4 loại gà thường: Basic, Speedy, Armored, Bomber.
-- Combo, xu, trạm tiếp tế, nâng sát thương, khiên, mạng, rapid fire, nam châm, tên lửa.
-- Độ khó Dễ / Thường / Khó.
-- Thành tích, kỷ lục và thiết lập lưu bằng localStorage.
-- PWA: manifest + service worker để cài ra màn hình chính khi chạy qua HTTPS/localhost.
-- Không cần thư viện, hình ảnh hoặc CDN bên ngoài.
+TÍNH NĂNG
+- Chiến dịch 30 màn, 6 boss khác nhau.
+- Chế độ Sinh tồn.
+- Bản đồ thiên hà chọn màn đã mở.
+- 3 phi thuyền: Falcon, Titan, Comet.
+- 4 vũ khí: Blaster, Spread, Laser, Plasma.
+- Thanh nhiệt súng / quá nhiệt / tản nhiệt.
+- Tên lửa dẫn đường.
+- Đùi gà, xu, lõi thiên hà, vật phẩm, combo.
+- Cửa hàng nâng cấp trong lượt.
+- Phòng thí nghiệm nâng cấp vĩnh viễn.
+- Tự lưu điểm cao, màn đã mở, phi thuyền và nâng cấp bằng localStorage.
+- Điều khiển PC và cảm ứng.
+- PWA/offline khi chạy trên HTTPS/GitHub Pages.
 
-CHẠY NHANH
-1. Mở index.html trực tiếp để chơi trên máy tính.
-2. Nếu muốn PWA/offline đầy đủ, đưa cả thư mục lên GitHub Pages/hosting HTTPS.
+ĐIỀU KHIỂN PC
+- WASD / phím mũi tên: di chuyển
+- Space: bắn
+- X: tên lửa dẫn đường
+- C: đổi vũ khí
+- 1-4: chọn vũ khí
+- P: tạm dừng
+
+LƯU Ý
+Đây là game nguyên bản lấy cảm hứng từ thể loại arcade bắn gà không gian, không sử dụng tài sản hình ảnh/âm thanh của game thương mại khác.

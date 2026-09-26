@@ -1,10 +1,13 @@
 {
-  "name":"Chicken Blaster: Galactic Farm",
-  "short_name":"Chicken Blaster",
-  "description":"Game bắn gà không gian arcade chạy trực tiếp trên trình duyệt.",
-  "start_url":"./index.html",
-  "display":"standalone",
-  "background_color":"#02040c",
-  "theme_color":"#070b1d",
-  "icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+  "name": "Chicken Blaster: Galactic Farm PRO",
+  "short_name": "Chicken Blaster",
+  "description": "Arcade bắn gà không gian nguyên bản, 30 màn chiến dịch và chế độ sinh tồn.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#05081a",
+  "theme_color": "#05081a",
+  "orientation": "any",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
 }
